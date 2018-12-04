@@ -53,7 +53,7 @@ props:['FatherToChild'],// 创建props属性,通过父组件改变值
 
 【子组件中】
 
-```
+```vue
 <template>
   <button @click="handleSubmit">向父元素传值</button>
 </template>
@@ -71,7 +71,7 @@ props:['FatherToChild'],// 创建props属性,通过父组件改变值
 
 【父组件中】
 
-```
+```vue
 <template>
   <div>
     <ChildDemo @change="handleChange"></ChildDemo>
