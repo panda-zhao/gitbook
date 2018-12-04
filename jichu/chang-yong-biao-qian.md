@@ -1,0 +1,1 @@
+HTML是用来描述网页的一种语言。全称为HyperText Markup Language，即超文本标记语言。是一种用于创建网页的标准标记语言。
