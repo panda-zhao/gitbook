@@ -16,7 +16,7 @@
 * [vue.js](jinjie/vuejs.md)
   * [基本语法](jinjie/vuejs/ji-ben-yu-fa.md)
   * [单页面应用程序](jinjie/vuejs/dan-ye-mian-ying-yong-cheng-xu.md)
-  * [组件通信](zu-jian-tong-xin.md)
+  * [组件通信](jinjie/vuejs/zu-jian-tong-xin.md)
 * [node.js](jinjie/nodejs.md)
   * [node.js搭建服务器](jinjie/nodejs/nodejsda-jian-fu-wu-qi.md)
 
