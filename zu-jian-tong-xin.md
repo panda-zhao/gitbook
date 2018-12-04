@@ -4,7 +4,8 @@
 - 父组件中注册子组件
 - 在子组件标签中添加子组件props中创建的属性
 - 把需要传给子组件的值赋给该属性
-【child.vue】子组件中
+
+【子组件】
 
 ```
 <template>
@@ -17,7 +18,7 @@ props:['FatherToChild'],// 创建props属性,通过父组件改变值
 </script>
 ```
 
-【父组件中】
+【父组件】
 
     <template>
       <div>
